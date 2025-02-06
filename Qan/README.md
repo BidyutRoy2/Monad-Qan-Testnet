@@ -22,6 +22,7 @@ git clone https://github.com/BidyutRoy2/Monad-Qan-Testnet.git
 
 ### 3. Go To Bot Directory
 ```
+cd Monad-Qan-Testnet
 cd Qan
 cd Transaction-Bot
 ```
@@ -62,6 +63,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
+cd Monad-Qan-Testnet
 cd Qan
 cd Contracts-Deploy-Bot
 ```
