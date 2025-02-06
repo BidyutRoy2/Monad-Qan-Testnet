@@ -61,9 +61,17 @@ npm start
 ### 1. Getting Started Add New Terminal (CTRL+SHIFT+C)
 
 ### 2. Go To Bot Directory
+-------------------------------
+If You Using CodeSpace
 ```
-cd Monad
-cd Transaction-Bot
+cd
+```
+```
+cd /workspaces/codespaces-blank
+```
+--------------------------------
+```
+cd Monad-Qan-Testnet && cd Qan && cd Transaction-Bot
 ```
 
 ### 3. Install the dependencies:
