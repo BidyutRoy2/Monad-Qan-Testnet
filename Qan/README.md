@@ -17,12 +17,12 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Chainbase-Testnet.git
+git clone https://github.com/BidyutRoy2/Monad-Qan-Testnet.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Qan
 cd Transaction-Bot
 ```
 
@@ -62,7 +62,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Qan
 cd Contracts-Deploy-Bot
 ```
 
