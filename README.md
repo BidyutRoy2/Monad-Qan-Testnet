@@ -17,13 +17,13 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Chainbase-Testnet.git
+git clone https://github.com/BidyutRoy2/Monad-Qan-Testnet.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Chainbase-Testnet
-cd Transaction-Bot
+cd Monad
+cd Contracts-Deploy-Bot
 ```
 
 ### 4. Instal Dependency
@@ -62,8 +62,8 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Chainbase-Testnet
-cd Contracts-Deploy-Bot
+cd Monad
+cd Transaction-Bot
 ```
 
 ### 3. Install the dependencies:
