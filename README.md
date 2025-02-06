@@ -6,7 +6,7 @@
 <img src='https://github.com/BidyutRoy2/BidyutRoy2/blob/main/Logo_BG.png' style="width:300px;height:300px;">
 </p>
 
-## 1. Daily Transaction Bot
+# 1. Daily Transaction Bot Monad
 
 ### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
@@ -22,8 +22,7 @@ git clone https://github.com/BidyutRoy2/Monad-Qan-Testnet.git
 
 ### 3. Go To Bot Directory
 ```
-cd Monad
-cd Contracts-Deploy-Bot
+cd Monad && cd Contracts-Deploy-Bot
 ```
 
 ### 4. Instal Dependency
@@ -71,7 +70,7 @@ cd /workspaces/codespaces-blank
 ```
 --------------------------------
 ```
-cd Monad-Qan-Testnet && cd Qan && cd Transaction-Bot
+cd Monad-Qan-Testnet && cd monad && cd Transaction-Bot
 ```
 
 ### 3. Install the dependencies:
@@ -92,6 +91,30 @@ Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef123456789
    ```
 
 ### 6. Follow Next Step and Deploy Contracts 
+
+
+# 2. Daily Transaction Bot Monad
+-------------------------------
+If You Using CodeSpace
+```
+cd
+```
+```
+cd /workspaces/codespaces-blank
+```
+--------------------------------
+```
+cd Monad-Qan-Testnet && cd Qan && cd Transaction-Bot
+```
+- `npm install`
+- Create .env File With Private key
+- `npm start`
+- `cd`
+- `cd /workspaces/codespaces-blank`
+- `cd Monad-Qan-Testnet && cd Qan && cd Contracts-Deploy-Bot`
+- `npm install`
+- Create .env File With Private key
+- `npm start`
 
 
 
