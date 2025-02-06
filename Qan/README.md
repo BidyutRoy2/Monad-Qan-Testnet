@@ -22,9 +22,7 @@ git clone https://github.com/BidyutRoy2/Monad-Qan-Testnet.git
 
 ### 3. Go To Bot Directory
 ```
-cd Monad-Qan-Testnet
-cd Qan
-cd Transaction-Bot
+cd Monad-Qan-Testnet && cd Qan && cd Transaction-Bot
 ```
 
 ### 4. Instal Dependency
@@ -63,9 +61,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Monad-Qan-Testnet
-cd Qan
-cd Contracts-Deploy-Bot
+cd Monad-Qan-Testnet && cd Qan && cd Contracts-Deploy-Bot
 ```
 
 ### 3. Install the dependencies:
