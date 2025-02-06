@@ -100,7 +100,7 @@ Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef123456789
 ### 6. Follow Next Step and Deploy Contracts 
 
 
-# 2. Daily Transaction Bot Monad
+# 2. Daily Transaction Bot QAN
 -------------------------------
 If You Using CodeSpace
 ```
