@@ -33,6 +33,10 @@ npm install
 
 ### 5. Create `.env` File & Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
 ```
+nano .env
+```
+
+```
 PRIVATE_KEYS=["Enter Private Key & Save"]
 ```
 Example : `PRIVATE_KEYS=["234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"]`
@@ -79,6 +83,9 @@ cd Monad-Qan-Testnet && cd monad && cd Transaction-Bot
    npm install
    ```
 ### 4. Create `.env` File & Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
+```
+nano .env
+```
 ```
 PRIVATE_KEY=Enter Private Key & Save
 ```
