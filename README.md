@@ -35,7 +35,7 @@ npm install
 ```
 nano .env
 ```
-
+To Save .env File (CTRL+X+Y & Hit Enter)
 ```
 PRIVATE_KEYS=["Enter Private Key & Save"]
 ```
