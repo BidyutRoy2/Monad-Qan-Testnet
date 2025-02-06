@@ -22,9 +22,7 @@ git clone git clone https://github.com/BidyutRoy2/Monad-Qan-Testnet.git
 
 ### 3. Go To Bot Directory
 ```
-cd Monad-Qan-Testnet
-cd Monad
-cd Contracts-Deploy-Bot
+cd Monad-Qan-Testnet && cd Monad && cd Contracts-Deploy-Bot
 ```
 
 ### 4. Instal Dependency
@@ -62,10 +60,17 @@ npm start
 ### 1. Getting Started Add New Terminal (CTRL+SHIFT+C)
 
 ### 2. Go To Bot Directory
+-------------------------------
+If You Using CodeSpace
 ```
-cd Monad-Qan-Testnet
-cd Monad
-cd Transaction-Bot
+cd
+```
+```
+cd /workspaces/codespaces-blank
+```
+--------------------------------
+```
+cd Monad-Qan-Testnet && cd Monad && cd Transaction-Bot
 ```
 
 ### 3. Install the dependencies:
