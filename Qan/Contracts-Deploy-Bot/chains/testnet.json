@@ -1,0 +1,16 @@
+[
+  {
+    "name": "QAN TestNet",
+    "rpcUrl": "https://rpc-testnet.qanplatform.como",
+    "chainId": "1121",
+    "symbol": "QANX",
+    "explorer": "https://testnet.qanscan.com"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
